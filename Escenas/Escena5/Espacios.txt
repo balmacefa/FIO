@@ -1,0 +1,9 @@
+Toma 3 del frame 129 dejar 30 fremes sin moverse
+Toma 4 Dejar frame 155 por 15frames
+Toma 4 del frame 179 dejar 11 frames
+Toma 4 del frame 180 dejar 5 frames
+Toma 5 del frame 245 dejar 36 frames
+Toma 5 del frame 304 dejar 56 frames
+Toma 5 del frame 336 dejar 63 frames
+*** toma 5 dejar unos cuantos al final
+Toma 6 del frame 445 dejar 50 cuadros
